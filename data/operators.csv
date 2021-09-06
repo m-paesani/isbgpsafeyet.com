@@ -99,6 +99,7 @@ ANEXIA Internetdienstleistungs GmbH,transit,signed + filtering,safe,47147,323
 Biznet Networks,ISP,signed + filtering,safe,17451,324
 Claro Argentina,ISP,,unsafe,11664,330
 Copel Telecom,transit,,unsafe,14868,333
+Fiber Telecom,transit,signed + filtering,safe,41327,334
 Vocus Group NZ,ISP,,unsafe,9790,370
 ACONET,transit,started,unsafe,1853,384
 Wirelink,transit,,unsafe,28368,391
